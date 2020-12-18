@@ -7,7 +7,7 @@ var urlsToCache = [
 	'/test/',
 	'/test/src/index.css',
 	'/test/src/index.js',
-	'/test/public/logo192.png'
+	'/test/public/logo192.png',
 ];
 
 // インストール処理
